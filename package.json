@@ -17,5 +17,5 @@
     "jquery": "x.x.x"
   },
   "devDependencies": {},
-  "main": "rating.js"
+  "main": "index.js"
 }
