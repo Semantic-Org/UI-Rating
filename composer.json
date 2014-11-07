@@ -14,5 +14,9 @@
     "jquery": "x.x.x"
   },
   "main": "rating.js",
+<<<<<<< HEAD
   "version": "1.0.0-beta"
+=======
+  "version": "1.0.0"
+>>>>>>> 1518563cee5506d87a5742509ad6e0b1f9282062
 }
