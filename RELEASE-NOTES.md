@@ -4,6 +4,14 @@
 - **Rating** - Rating can now automatically generate icons without including them
 - **Rating** - Rating can use data attributes to specify individual ratings
 
+### Version 0.19.0 - July 3, 2014
+
+- **Docs** - Language clarified for menu/rating definition **Thanks jnbt/ewiner**
+
+### Version 0.15.4 - April 04, 2014
+
+- **Rating** - Fixes issue where rating was behaving erratically in Chrome
+
 ### Version 0.10.2 - Dec 13, 2013
 
 - **Rating** - Fixes vertical alignment with text
