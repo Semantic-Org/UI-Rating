@@ -1,4 +1,4 @@
-### Version 1.0.0 - XX XX, 2014
+### Version 1.0.0 - November 24, 2014
 
 - **Rating** - Rating now uses an embedded icon font to maximize compatibility
 - **Rating** - Rating can now automatically generate icons without including them
