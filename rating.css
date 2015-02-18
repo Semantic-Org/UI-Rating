@@ -1,7 +1,7 @@
  /*
- * # Semantic UI
+ * # Semantic UI - 1.9.0
  * https://github.com/Semantic-Org/Semantic-UI
- * http://beta.semantic-ui.com/
+ * http://www.semantic-ui.com/
  *
  * Copyright 2014 Contributors
  * Released under the MIT license
@@ -17,9 +17,7 @@
 
 .ui.rating {
   display: inline-block;
-  font-size: 0em;
-  vertical-align: baseline;
-  margin: 0em 0.5rem 0em 0em;
+  vertical-align: middle;
 }
 .ui.rating:last-child {
   margin-right: 0em;
@@ -37,12 +35,11 @@
   cursor: pointer;
   margin: 0em;
   width: 1.1em;
-  text-align: center;
   height: auto;
+  text-align: center;
   padding: 0em;
   font-weight: normal;
   font-style: normal;
-  vertical-align: baseline;
 }
 
 
@@ -176,13 +173,6 @@
   font-size: 2rem;
 }
 
-/* Realign */
-.ui.large.rating,
-.ui.huge.rating,
-.ui.massive.rating {
-  vertical-align: middle;
-}
-
 
 /*******************************
          Theme Overrides
@@ -197,7 +187,6 @@
 .ui.rating .icon {
   font-family: 'Rating';
   line-height: 1;
-  height: 1em;
   -webkit-backface-visibility: hidden;
           backface-visibility: hidden;
   font-weight: normal;
@@ -255,3 +244,9 @@
 .ui.heart.rating .active.icon:before {
   content: '\f004';
 }
+
+
+/*******************************
+         Site Overrides
+*******************************/
+
