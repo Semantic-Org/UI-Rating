@@ -1,6 +1,10 @@
 {
   "name": "semantic-ui-rating",
+<<<<<<< HEAD
   "version": "1.0.0-beta",
+=======
+  "version": "1.7.2",
+>>>>>>> d2775f24485287ef10c29ff8187d7a2ff8d5f6fe
   "title": "Semantic UI - Rating",
   "description": "Single component release of rating",
   "homepage": "http://www.semantic-ui.com",
@@ -8,7 +12,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git@github.com:Semantic-Org/UI-Rating.git"
+    "url": "https://github.com/Semantic-Org/UI-Rating.git"
   },
   "bugs": {
     "url": "https://github.com/Semantic-Org/Semantic-UI/issues"
