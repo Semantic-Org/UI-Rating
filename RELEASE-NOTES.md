@@ -1,3 +1,8 @@
+### Version 2.0.0 - June 30, 2015
+
+- **Rating** - Rating now correctly adjusts if `data` attributes change
+- **Rating** - Rating styles have been adjusted to use subtle transitions and tweaked color values.
+
 ### UI Changes
 
 - **Rating** - Vertical alignment of `ui rating` with inline content now accounts for parent line height
@@ -23,7 +28,7 @@
 
 ### Version 0.9.6 - Dec 04, 2013
 
-- **Rating** - Ratings now recieve class disabled when read only, instead of recieving ``active`` when rateable since active are much more common
+- **Rating** - Ratings now receive class disabled when read only, instead of receiving ``active`` when rateable since active are much more common
 
 ### Version 0.4.1 - Oct 9, 2013
 
