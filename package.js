@@ -2,7 +2,7 @@
 Package.describe({
   name    : 'semantic:ui-rating',
   summary : 'Semantic UI - Rating: Single component release',
-  version : '2.1.1',
+  version : '2.1.2',
   git     : 'git://github.com/Semantic-Org/UI-Rating.git',
 });
 
