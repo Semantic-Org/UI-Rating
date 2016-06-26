@@ -1,3 +1,9 @@
+### Version 2.2.0 - June 26, 2016
+
+- **Rating** - Added new setting `fireOnInit` for rating, which defaults to `false`. When set to true `onRate` will fire when rating is initialized [#3712](https://github.com/Semantic-Org/Semantic-UI/issues/3712)
+- **Rating** - Fixed `ui rating` to not used outlined star in basic variation, instead using a lighter filled in star for increased visibility [#3730](https://github.com/Semantic-Org/Semantic-UI/issues/3730)
+- **Rating** - rating does not fire `onRate` when rating is initialized [#3712](https://github.com/Semantic-Org/Semantic-UI/issues/3712)
+
 ### Version 2.0.3 - July 8, 2015
 
 - **Popup** - Popup `preserve` setting (which preserves popup in DOM to avoid regenerating on each show/hide) was set to `true` by default causing generated popups to remain in DOM. [#1369](https://github.com/Semantic-Org/Semantic-UI/issues/1369)
